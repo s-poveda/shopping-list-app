@@ -1,3 +1,3 @@
 # Shopping List App Challenge
 
-This repo contains starter files for the *Shopping List App* challenge.
+Deployed page {#https://s-poveda.github.io/shopping-list-app/}
